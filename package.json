@@ -1,0 +1,16 @@
+{
+  "name": "bem-te-vi-bot",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "discord.js": "^12.1.0",
+    "ffmpeg-static": "^4.4.0",
+    "heroku": "^7.57.0",
+    "node": "16.6.1"
+  }
+}
