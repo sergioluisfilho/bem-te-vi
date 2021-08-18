@@ -1,5 +1,5 @@
 const {Intents, Client} = require('discord.js');
-const token = 'ODc3MzIxNDQ5MjU2NDExMTk2.YRw7RQ.iWJpf_lvLrXM3P0h7Trlefn3mb0'; //process.env.TOKEN;
+const token =  process.env.token;
 
 const prefix = '!';
 
