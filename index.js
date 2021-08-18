@@ -1,4 +1,4 @@
-const { Client} = require('discord.js');
+const { Client } = require('discord.js');
 const token =  process.env.token;
 
 const prefix = '!';
